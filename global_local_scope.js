@@ -12,6 +12,6 @@
 */
 function sevgi() {
   let isim = "Selin";
-  console.log(isim + "'e olan sevgim ghep ona ait olacaktır");
+  console.log(isim + "'e olan sevgim hep ona ait olacaktır");
 }
-console.log(isim + "'e olan sevgim ghep ona ait olacaktır");
+console.log(isim + "'e olan sevgim hep ona ait olacaktır");
