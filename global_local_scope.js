@@ -7,6 +7,8 @@
 
     Blok içerisinde ki tanımlamalar blok içerisinde yaşar ve ölür. Aynı aşağıdaki gibi ....
 
+    Dışardakini içeri alırsında içerdekini dışarı alamazsın....
+
 */
 function sevgi() {
   let isim = "Selin";
