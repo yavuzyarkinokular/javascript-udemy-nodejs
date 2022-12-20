@@ -1,0 +1,28 @@
+{
+  "name": "nodejsurs",
+  "version": "1.0.0",
+  "description": "npm packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yavuzyarkinokular/javascript-udemy-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yavuzyarkinokular/javascript-udemy-nodejs/issues"
+  },
+  "homepage": "https://github.com/yavuzyarkinokular/javascript-udemy-nodejs#readme",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongodb": "^4.13.0",
+    "mongoose": "^6.8.1",
+    "underscore": "^1.13.6",
+    "yargs": "^17.6.2"
+  }
+}
